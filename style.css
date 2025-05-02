@@ -5147,6 +5147,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, a, .td
       -o-transform: translate3d(-230px, 0, 0);
       -ms-transform: translate3d(-230px, 0, 0);
       transform: translate3d(-230px, 0, 0);
+  
     }
     .nav-open .burger-menu .navbar-translate {
       -webkit-transform: translate3d(-230px, 0, 0);
